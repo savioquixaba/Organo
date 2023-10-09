@@ -7,9 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Banner />
-        <CampoTexto label="Nome"/>
-        <CampoTexto label="Cargo"/>
-        <CampoTexto label="Imagem"/>
+        <CampoTexto label="Nome" placeholder="coloque seu Nome!"/>
+        <CampoTexto label="Cargo" placeholder="coloque seu Cargo!"/>
+        <CampoTexto label="Imagem" placeholder="coloque o endereço da sua imagem!"/>
         
       </header>
     </div>
