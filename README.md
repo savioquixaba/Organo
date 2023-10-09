@@ -10,5 +10,5 @@ Montando projeto Organo da alura e aprendendo conceitos basicos do React, como c
 
 ### DIA 3
 
-Aprendendo e aplicando PROPS no projeto, Props geralmente são passadas no HTML do projeto para facilitar a vida do programar a reutilizar alguma função que ja foi feita no codigo
+Aprendendo e aplicando PROPS no projeto, Props geralmente são passadas no HTML do projeto para facilitar a vida do programador a reutilizar alguma função que ja foi feita no codigo,
 só de adicionar o PROPS no codigo já o deixa mais curto e mais funcional.
