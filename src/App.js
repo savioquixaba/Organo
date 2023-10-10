@@ -1,16 +1,15 @@
 
 import Banner from './template/Banner/index';
-import CampoTexto from './template/CampoTexto';
+import Formulario from './template/Formulario';
+
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Banner />
-        <CampoTexto label="Nome" placeholder="coloque seu Nome!"/>
-        <CampoTexto label="Cargo" placeholder="coloque seu Cargo!"/>
-        <CampoTexto label="Imagem" placeholder="coloque o endereço da sua imagem!"/>
         
+        <Banner />
+        <Formulario />
       </header>
     </div>
   );
