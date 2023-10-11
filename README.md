@@ -2,7 +2,7 @@
 
 ### DIA 1
 
-inicializando React e instalando pacotes, usando o npx create-react-app para criar um novo projeto com todas as propiedades e modulos do React funcionando, aprendendo tambem como funciona o NPM e para que ele serve.
+Inicializando React e instalando pacotes, usando o npx create-react-app para criar um novo projeto com todas as propiedades e modulos do React funcionando, aprendendo tambem como funciona o NPM e para que ele serve.
 
 ### DIA 2
 
@@ -18,3 +18,7 @@ há tambem como fazer Interpolação de Strings com o PROPS por exemplo: variave
 
 Construindo e estruturando o Formulario da pagina deixando o codigo mais funcional, jogando o codigo do Campo Texto dentro do formulario e por meio da PROPS renderizando direito 
 do template do Formulario.
+
+### DIA 5
+
+Construção da Combo-box com as Lanes que o usuario vai poder escolher, usando o metodo MAP do JS para iterar o array de Lanes e retornar um item clicavel para o usuario.
